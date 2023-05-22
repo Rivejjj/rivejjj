@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Rust, Java, C**
 
-- 📫 How to reach me **jorivero@fi.uba.ar**
+- 📫 How to reach me: **jorivero@fi.uba.ar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
