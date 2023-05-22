@@ -7,7 +7,7 @@
 
 - 📄 My interests are **AI, data science, backend development**
 
-- ⚡ I am currently [open to work](open to work)
+- ⚡ I am currently **open to work**
 
 - 💬 Ask me about **Python, Rust, Java, C**
 
