@@ -20,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rivejjj&show_icons=true&locale=en&layout=compact" alt="rivejjj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rivejjj&show_icons=true&locale=en" alt="rivejjj" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rivejjj&label=Profile%20views&color=0e75b6&style=flat" alt="rivejjj" /> </p>
